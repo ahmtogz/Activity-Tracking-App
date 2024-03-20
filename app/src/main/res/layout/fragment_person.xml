@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/personLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- Kullanıcının adını gösteren metin alanı -->
+    <TextView
+        android:id="@+id/textViewWelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text=""
+        android:textSize="24sp"
+        android:textColor="#0000FF" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
+    <!-- Personal Parameters butonu -->
+    <Button
+        android:id="@+id/personal_parameters_button"
+        android:layout_width="322dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Personal Parameters" />
+
+    <!-- Boşluk görünümü eklemek için bir View kullanma -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="49dp" />
+
+    <!-- Ausloggen (Çıkış Yap) butonu -->
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="323dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Ausloggen" />
+</LinearLayout>

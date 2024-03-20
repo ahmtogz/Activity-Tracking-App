@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="LoginActivityTest">
+        <State />
+      </entry>
+      <entry key="RouteDbHelperTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Pixel_3_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2023-12-06T23:42:25.737236Z" />
+        </State>
+      </entry>
+      <entry key="eingelogteUsernameIsDisplayed()">
+        <State />
+      </entry>
+      <entry key="logoutClearsSharedPreferencesAndNavigatesToLogin()">
+        <State />
+      </entry>
+      <entry key="verifyLoggedInUsernameIsDisplayed()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
